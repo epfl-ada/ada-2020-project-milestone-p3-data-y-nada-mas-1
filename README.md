@@ -70,4 +70,4 @@ To respect our internal milestones, we propose the following organization within
 ![Organisation within the team](https://github.com/epfl-ada/ada-2020-project-milestone-p3-data-y-nada-mas-1/blob/main/orga.png)
 
 ### Questions for TAs (optional)
-
+We'd like to have your inputs on the use of Gtrends library. Since we are just willing to use the indexes without comparing, is it relevant to use as an extractor ? Or can we just download the csv files from google trends?
