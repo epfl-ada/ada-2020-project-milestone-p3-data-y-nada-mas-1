@@ -12,7 +12,7 @@ Since the situation evolves every week, it's interesting to have an accurate sho
 
 1.  What topics are most related to the evolution of the number of cases in France?
     
-2.  Does including the indices of these topics in the forecast model improve our prediction ?
+2.  Does including the indexes related to health (symptoms, cough...) to our model improve our forecast ?
     
 3.  Given the many restrictions around social life applied during this pandemic, it is interesting to wonder if including googles trends indices related to social life such as dining out in the summer period of 2020, could improve the prediction ?
     
@@ -70,5 +70,4 @@ In order to respect our internal milestones, we propose the following organisati
 ![Organisation within the team](https://github.com/epfl-ada/ada-2020-project-milestone-p3-data-y-nada-mas-1/blob/main/orga.png)
 
 ### Questions for TAs (optional)
-    
 
