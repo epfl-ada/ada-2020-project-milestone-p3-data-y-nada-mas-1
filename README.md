@@ -25,13 +25,9 @@ Since the situation evolves every week, it's interesting to have an accurate sho
 The [dataset](https://opendata.ecdc.europa.eu/covid19/casedistribution/csv) can be found on the EU open data portal. The dataset provides daily cases and deaths per country. We can therefore easily extract the daily cases for France.
 
 2. Google trends indexes related to covid
-Data can be downloaded as csv files containing a timestamp and the corresponding index using extractor tool (lien github)
+Data can be downloaded as csv files containing a timestamp and the corresponding index using [Google Trends](https://trends.google.com/trends/?geo=US).
 
-For example :
-
-[https://trends.google.fr/trends/explore?q=symptomes%20covid&geo=FR](https://trends.google.fr/trends/explore?q=symptomes%20covid&geo=FR)
-
-[https://trends.google.fr/trends/explore?geo=FR&q=Top%2010%20restaurant](https://trends.google.fr/trends/explore?geo=FR&q=Top%2010%20restaurant)
+For example : [Symptomes covid](https://trends.google.fr/trends/explore?q=symptomes%20covid&geo=FR) and [restaurant](https://trends.google.fr/trends/explore?geo=FR&q=Top%2010%20restaurant) indexes.
 
 
 ### Methods
