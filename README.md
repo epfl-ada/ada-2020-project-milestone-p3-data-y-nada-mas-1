@@ -4,7 +4,7 @@
 ## Title : Predicting covid cases with Google Trends
 
 ### Abstract
-Since January 2020, the covid-19 pandemic has challenged the various hospital systems. The response to this health crisis has often been a lockdown, causing an economic crisis and a social crisis. This response is in reaction rather than in preparation and anticipation.
+Since January 2020, the covid-19 pandemic has challenged the various hospital systems. The response to this health crisis has often been a lockdown, causing an economic and a social crisis. This response is in reaction rather than in preparation and anticipation.
 
 Since the situation evolves every week, it's interesting to have an accurate short term forecast in order to better anticipate the next outbreak and develop a better strategy to contain the virus and thus limit the economic and social impact. This study proposes to extend the method used in the paper “Predicting the present with Google trends” to develop a short term forecast of the number of Covid-19 cases in France. Then, improving this prediction using appropriate and relevant Google Trends data. For example, by including indexes of topics related to health at the level of research on the symptoms of Covid, or by using indexes related to social life and which could indicate an increase in trips and gatherings over a given period.
 
