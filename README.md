@@ -44,9 +44,9 @@ For example : [Symptomes covid](https://trends.google.fr/trends/explore?q=sympto
 
 	- Fit an AR-1 model on the number of Covid cases in France time-series.
 
-	-	Discuss if we go for an in-sample or out-sample forecasting, the windowing, etc
+	- Discuss if we go for an in-sample or out-sample forecasting, the windowing, etc
 
-	-	Add the relevant indices to the model and redo the forecasting
+	- Add the relevant indices to the model and redo the forecasting
 
 5.  Evaluate the method
 In term of MAE (Quality of prediction)
@@ -58,10 +58,10 @@ In term of MAE (Quality of prediction)
 8. Report and Video
     
 ### Proposed timeline
-By the **2nd of December** : Step 1 to Step 3
-By the **9th of December** : Step 4 and 5
-By the **14th of December** : Step 6 and 7
-By the **18th of December** : Step 8
+- By the **2nd of December** : Step 1 to Step 3
+- By the **9th of December** : Step 4 and 5
+- By the **14th of December** : Step 6 and 7
+- By the **18th of December** : Step 8
     
 ### Organization within the team
 
