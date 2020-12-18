@@ -1,7 +1,7 @@
 # Milestone P3
 
 
-## Title: Predicting covid cases with Google Trends
+## Covid Trends: Predicting covid deaths with Google Trends
 
 [Data story](https://covidtrends.github.io/)
 
@@ -9,7 +9,7 @@
 ### Abstract
 Since January 2020, the covid-19 pandemic has challenged the various hospital systems. The response to this health crisis has often been a lockdown, causing an economic and social crisis. This response is in reaction rather than in preparation and anticipation.
 
-Since the situation evolves every week, it's interesting to have an accurate short term forecast to better anticipate the next outbreak and develop a better strategy to contain the virus and thus limit the economic and social impact. This study proposes to extend the method used in the paper “Predicting the present with Google trends” to develop a short term forecast of the number of Covid-19 cases in France. Then, improving this prediction using appropriate and relevant Google Trends data. For example, by including indexes of topics related to health at the level of research on the symptoms of Covid, or by using indexes related to social life and which could indicate an increase in trips and gatherings over a given period.
+Since the situation evolves every week, it's interesting to have an accurate short term forecast to better anticipate the next outbreak and develop a better strategy to contain the virus and thus limit the economic and social impact. This study proposes to extend the method used in the paper “Predicting the present with Google trends” to develop a short term forecast of the number of Covid-19 deaths in France. Then, improving this prediction using appropriate and relevant Google Trends data. For example, by including indexes of topics related to health at the level of research on the symptoms of Covid, or by using indexes related to social life and which could indicate an increase in trips and gatherings over a given period.
 
 ### Research Questions
 
@@ -23,8 +23,8 @@ Since the situation evolves every week, it's interesting to have an accurate sho
 
 ### Proposed dataset
  
-1. **Official numbers of covid cases**
-The [dataset](https://opendata.ecdc.europa.eu/covid19/casedistribution/csv) can be found on the EU open data portal. The dataset provides daily cases and deaths per country. We can therefore easily extract the daily cases for France.
+1. **Official numbers of covid deaths**
+The [dataset](https://opendata.ecdc.europa.eu/covid19/casedistribution/csv) can be found on the EU open data portal. The dataset provides daily cases and deaths per country. We can therefore easily extract the daily deaths for France.
 
 2. Google trends indexes related to covid
 Data can be downloaded as CSV files containing a timestamp and the corresponding index using [Google Trends](https://trends.google.com/trends/?geo=US).
@@ -76,6 +76,8 @@ To respect our internal milestones, we propose the following organization within
 
 ### Contributions
 
+The previous graph shows the contributions over the different authors of this repository.
+
 - Baudoin de Sury
 - Mehdi Akeddar 
-- Jérémy Plassman
+- Jérémy Plassmann
