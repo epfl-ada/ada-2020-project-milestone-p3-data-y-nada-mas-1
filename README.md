@@ -1,7 +1,7 @@
-# Milestone P3
+# Covid Trends
 
 
-## Covid Trends: Predicting covid deaths with Google Trends
+## Predicting covid deaths with Google Trends
 
 You can find [here](https://covidtrends.github.io/) the Data Story.
 
