@@ -64,9 +64,10 @@ To respect our internal milestones, we propose the following organization within
 ![Organisation within the team](https://github.com/epfl-ada/ada-2020-project-milestone-p3-data-y-nada-mas-1/blob/main/orga.png)
 
 ### Repository structure
-
+```
 .
 ├── README.md
 ├── ada-project.ipynb
 ├── covid_cases.csv
 └── orga.png
+```
