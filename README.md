@@ -39,8 +39,8 @@ For example : [Symptomes covid](https://trends.google.fr/trends/explore?q=sympto
   - 1.1 Collect of Covid-19 related data
 	- 1.2 Pre-processing of Covid-19 related data
 	- 1.3 Google Trends data (Create categories with associated key words)
-    - 1.3.1 Categories with 10 key-words
-    - 1.3.2 Extract google trends indexes
+      - 1.3.1 Categories with 10 key-words
+      - 1.3.2 Extract google trends indexes
 
 - 2 Cross-Correlation
 
