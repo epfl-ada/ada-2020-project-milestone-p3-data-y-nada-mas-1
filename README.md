@@ -13,14 +13,13 @@ Since the situation evolves every week, it's interesting to have an accurate sho
 
 ### Research Questions
 
-1.  What topics are mostly related to the evolution of the number of cases in France?
+1.  What topics are mostly related to the evolution of the number of deaths in France?
     
 2.  Does including the indexes related to health (symptoms, cough...) to our model improve our forecast?
     
 3.  Given the many restrictions around social life applied during this pandemic, it is interesting to wonder if including Google trends indices related to social life such as dining out in the summer period of 2020, could improve the prediction?
     
-4.  Can Google Trends Data help to predict noisy data as Covid cases?
-    
+4.  Can Google Trends Data help to predict noisy data as Covid deaths?   
 
 ### Proposed dataset
  
