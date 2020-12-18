@@ -33,30 +33,24 @@ For example : [Symptomes covid](https://trends.google.fr/trends/explore?q=sympto
 ### Methods
     
 
-1.  Collect the data
-    
-2.  Build the dataset
-    
-3.  Data pre-processing
-    
-4.  Apply the method of the Paper :
-    
+- 1. Data collection and pre-processing
+	- 1.1 Collect of Covid-19 related data
+	- 1.2 Pre-processing of Covid-19 related data
+	- 1.3 Google Trends data (Create categories with associated key words)
+		- 1.3.1 Categories with 10 key-words
+		- 1.3.2 Extract google trends indexes
 
-	- Fit an AR-1 model on the number of Covid cases in France time-series.
+- 2. Cross-Correlation
 
-	- Discuss if we go for an in-sample or out-sample forecasting, the windowing, etc
+- 3. Apply the method of the paper
+	- 3.1 In sample predicition using AR-1
+	- 3.2 Out-of-sample prediction
 
-	- Add the relevant indices to the model and redo the forecasting
+- 4. Conclusion
 
-5.  Evaluate the method
-In term of MAE (Quality of prediction)
+- 5. Going Further
 
-6. Discuss the Results
-    
-7.  Propose improvements
 
-8. Report and Video
-    
 ### Proposed timeline
 - By the **2nd of December** : Step 1 to Step 3
 - By the **9th of December** : Step 4 and 5
@@ -69,5 +63,10 @@ To respect our internal milestones, we propose the following organization within
 
 ![Organisation within the team](https://github.com/epfl-ada/ada-2020-project-milestone-p3-data-y-nada-mas-1/blob/main/orga.png)
 
-### Questions for TAs (optional)
-We'd like to have your inputs on the use of Gtrends library. Since we are just willing to use the indexes without comparing, is it relevant to use as an extractor ? Or can we just download the csv files from google trends?
+### Repository structure
+
+.
+├── README.md
+├── ada-project.ipynb
+├── covid_cases.csv
+└── orga.png
