@@ -35,22 +35,22 @@ For example : [Symptomes covid](https://trends.google.fr/trends/explore?q=sympto
 ### Methods
     
 
-1. Data collection and pre-processing
-  1.1 Collect of Covid-19 related data
-	1.2 Pre-processing of Covid-19 related data
-	1.3 Google Trends data (Create categories with associated key words)
-		1.3.1 Categories with 10 key-words
-		1.3.2 Extract google trends indexes
+- 1. Data collection and pre-processing
+  - 1.1 Collect of Covid-19 related data
+	- 1.2 Pre-processing of Covid-19 related data
+	- 1.3 Google Trends data (Create categories with associated key words)
+	  - 1.3.1 Categories with 10 key-words
+		- 1.3.2 Extract google trends indexes
 
-2. Cross-Correlation
+- 2. Cross-Correlation
 
-3. Apply the method of the paper
-	3.1 In sample predicition using AR-1
-	3.2 Out-of-sample prediction
+- 3. Apply the method of the paper
+	- 3.1 In sample predicition using AR-1
+	- 3.2 Out-of-sample prediction
 
-4. Conclusion
+- 4. Conclusion
 
-5. Going Further
+- 5. Going Further
 
 
 ### Proposed timeline
