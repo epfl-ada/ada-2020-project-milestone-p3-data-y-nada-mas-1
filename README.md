@@ -3,7 +3,7 @@
 
 ## Covid Trends: Predicting covid deaths with Google Trends
 
-[Data story](https://covidtrends.github.io/)
+You can find [here](https://covidtrends.github.io/) the Data Story.
 
 
 ### Abstract
